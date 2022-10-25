@@ -1,0 +1,18 @@
+html {
+    background-color: #48413e;
+    color:white;
+}
+h1 {
+    color:aqua;
+    text-align: center;
+}
+p {
+   text-align:justify;
+}
+.theTitle {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background: #6a5a53;
+    text-align: center;
+}
